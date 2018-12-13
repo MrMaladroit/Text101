@@ -1,0 +1,7 @@
+The lighting in the entryway of Vault 210 is abyssmal compared the scorching sunlight of the Phoenix wasteland.
+The air is damp and cool. A dream turned nightmarish for the smell of blood in the air was palpable. A sack of body parts 
+could be seen on either side of a door leading deeper into the vault. The door opens to a corridor that leads left or right. 
+
+What do you do?
+1. You can hear crunching sounds come from a room that is at the end of the hallway going left. Do you approach the open door?
+2. There are no discernable sounds coming from the right side of the corridor. It just ends with a door. Do you approach closed door?
