@@ -394,7 +394,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   storyTextDisplay: {fileID: 1006732578}
-  openingState: {fileID: 11400000, guid: 2ecc1a67190a63848bd71465e14a9ed4, type: 2}
+  titleState: {fileID: 11400000, guid: acf5c940e245dc34ab129e53a3ed5f2f, type: 2}
 --- !u!4 &634238742
 Transform:
   m_ObjectHideFlags: 0
