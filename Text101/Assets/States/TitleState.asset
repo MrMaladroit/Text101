@@ -15,6 +15,8 @@ MonoBehaviour:
     text based game. You play as [CHARACTER NAME] looking for [MOTIVE]. \n\nThe Arizona
     Wasteland is threaded with dangers and mystery. Who is a friend? Who is a foe?
     Who was one before becoming the other? \n\nDo you have what it takes to survive
-    this radiated world?"
+    this radiated world?\n\nInstructions:\nPress [TOP BUTTON DESCRIPTION] to select
+    the first option.\nPress [BOTTOM BUTTON DESCRIPTION] to select the second option.\nPress
+    [ORANGE BUTTON DESCRIPTION] when you want to open the game options menu."
   nextStates:
   - {fileID: 11400000, guid: 2ecc1a67190a63848bd71465e14a9ed4, type: 2}

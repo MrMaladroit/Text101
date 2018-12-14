@@ -11,6 +11,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7a67686e8117004a889d4d72f8cac70, type: 3}
   m_Name: GameOver
   m_EditorClassIdentifier: 
-  storyText: You have died in search of [MOTIVE]. You have become another helpless
+  storyText: 'You have died in search of [MOTIVE]. You have become another helpless
     soul that has been chewed up and spit out by the unrelenting wasteland.
+
+
+
+
+    1. Play again?
+
+    2. Quit'
   nextStates: []
