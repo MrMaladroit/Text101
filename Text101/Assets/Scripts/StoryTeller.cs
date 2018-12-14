@@ -15,8 +15,19 @@ public class StoryTeller : MonoBehaviour
         storyTextDisplay.text = state.GetStateStory();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void OptionOne()
     {
+        Debug.Log("Option One was selected.");
+    }
+
+    public void OptionTwo()
+    {
+        Debug.Log("Options Two was selected.");
+    }
+
+
+    public string GetCurrentStateName()
+    {
+        return state.name;
     }
 }
