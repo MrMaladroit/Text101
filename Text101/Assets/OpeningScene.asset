@@ -20,3 +20,6 @@ MonoBehaviour:
     from a room that is at the end of the hallway going left. Do you approach the
     open door?\r\n2. There are no discernable sounds coming from the right side of
     the corridor. It just ends with a door. Do you approach closed door?"
+  nextStates:
+  - {fileID: 11400000, guid: 90ca67b6e197bf640bceb3963cdecb48, type: 2}
+  - {fileID: 11400000, guid: 3541da4becfb0344489cf2c20bad9184, type: 2}
