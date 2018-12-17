@@ -17,6 +17,8 @@ MonoBehaviour:
     Who was one before becoming the other? \n\nDo you have what it takes to survive
     this radiated world?\n\nInstructions:\nPress [TOP BUTTON DESCRIPTION] to select
     the first option.\nPress [BOTTOM BUTTON DESCRIPTION] to select the second option.\nPress
-    [ORANGE BUTTON DESCRIPTION] when you want to open the game options menu."
+    [ORANGE BUTTON DESCRIPTION] when you want to open the game options menu.\n\nPress
+    either option buttons to continue..."
   nextStates:
+  - {fileID: 11400000, guid: 2ecc1a67190a63848bd71465e14a9ed4, type: 2}
   - {fileID: 11400000, guid: 2ecc1a67190a63848bd71465e14a9ed4, type: 2}

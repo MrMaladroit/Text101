@@ -7,15 +7,20 @@ public class State : ScriptableObject
     [SerializeField] State[] nextStates;
 
     private State[] states;
-
+    
+    private void Start()
+    {
+        states = nextStates;
+    }
 
     public string GetStateStory()
     {
         return storyText;
     }
 
-    public State[] GetNextStates()
+    public State GetNextState(int index)
     {
-        return states;
+        states = nextStates;
+        return states[index];
     }
 }

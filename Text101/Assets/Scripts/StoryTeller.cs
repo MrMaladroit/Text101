@@ -17,17 +17,26 @@ public class StoryTeller : MonoBehaviour
 
     public void OptionOne()
     {
+        state = state.GetNextState(0);
         Debug.Log("Option One was selected.");
+        UpdateText();
     }
 
     public void OptionTwo()
     {
+        state = state.GetNextState(1);
         Debug.Log("Options Two was selected.");
+        UpdateText();
     }
 
 
     public string GetCurrentStateName()
     {
         return state.name;
+    }
+
+    private void UpdateText()
+    {
+        storyTextDisplay.text = state.GetStateStory();
     }
 }
